@@ -14,6 +14,7 @@ the main aspects I would like to focus on for my career are: creatively fulfilli
 Reading more about web develpment, since the role I know most about is front-end development, I can imagine myself designing a website and a brand packet ... I would love to be able to say I am then able to create the website, front AND back end. Right now my focus would be on small ecommerce sites eg the people I work with at craft fairs/something that would call for strong senses of personality in the designs, not just relying on template-hosting websites
 
 https://nationalcareers.service.gov.uk/job-profiles/web-developer
+
 https://careerfoundry.com/en/blog/web-development/what-type-of-developer-am-i-quiz/ quiz (for what it's worth) also suggests a frontend developer, but the experience of foricbly having to pick one aspect I am excited about in the creation of a website made me realise that it's not just ONE aspect I am excited about. It's being able to create things from beginning to end
 
 QUESTIONS ON NOTES?
