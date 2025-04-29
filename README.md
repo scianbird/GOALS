@@ -21,3 +21,12 @@ QUESTIONS ON NOTES?
 
 - although I know it wasn't needed, was the solution I found on a forum (no jekyll) the correct step for not showing the README as the webpage in our workshop task
 - following up on the point about a github filled with half-finished/broken projects is more valuable than one with one "good" project, if you are the sort of person who finds tutorials helpful for learning, is that something that should be kept on github, or something like codepen? is it all good if you credit/link the tutorial in the README file?
+
+
+DAY 2
+
+this day was an introduction to CSS (which I already had done before, but didn't have the understanding behind it) and styling a news page. Throughout the day I have also been working on making a fun little quiz to test myself in order to make sure I have been taking in what has been said (alongside the workshop tasks). 
+
+I have a better understanding of classes/styling now. Originally I had just been giving HTML items literally any old random code, for example "<ad>" because I wanted that one line of text to be red, but after conversations and a workshop on div/classes, I instead included it in the sidebar class and made sure that the rules of inheritance made the styling make sense/work. 
+
+For this self-reflection hour I am going to look at examples of coding challenges for entry-level positions. I know they will be beyond what I could complete at the moment, but I want get rid of the idea in my head that these positions are something I will never be able to reach for (imposter syndrome leakage again) and allow my brain to instead latch onto more solid and better imagined skill goals. You have to know what you don't know... you know? 
