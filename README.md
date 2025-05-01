@@ -30,3 +30,9 @@ this day was an introduction to CSS (which I already had done before, but didn't
 I have a better understanding of classes/styling now. Originally I had just been giving HTML items literally any old random code, for example "<ad>" because I wanted that one line of text to be red, but after conversations and a workshop on div/classes, I instead included it in the sidebar class and made sure that the rules of inheritance made the styling make sense/work. 
 
 For this self-reflection hour I am going to look at examples of coding challenges for entry-level positions. I know they will be beyond what I could complete at the moment, but I want get rid of the idea in my head that these positions are something I will never be able to reach for (imposter syndrome leakage again) and allow my brain to instead latch onto more solid and better imagined skill goals. You have to know what you don't know... you know? 
+
+
+OK .. day 3 I ended up getting TOO SUCKED IN to making my little idea of a test website (the general idea is just js events to change colour scheme) so this update is a little late
+
+DAY 4 I will be back to looking at career stuff: particuarly in the freelance part of it for today, reading more about what a freelance "career" could look like for tech and the resources I can make use of to access it (for example the hub in the library that offers small business advice etc) 
+re: health wise, I can certainly feel fatigue (context for readers is that I have fibromyalgia/fatigue) but I am doing my best to mitigate the impacts the intensive learning is having on me, and making sure I have notes for everything we cover so that brainfog won't get the best of me :) I'm dedicated to learning and dedicated to making something WORK after this course, it's an amazing oppertunity 
